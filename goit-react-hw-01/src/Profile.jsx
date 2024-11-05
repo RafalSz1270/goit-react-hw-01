@@ -1,6 +1,7 @@
 // src/components/Profile/index.jsx
 import React from 'react';
 import styles from './style.module.css';
+import Profile from './userData.json';
 
 const Profile = ({ name, tag, location, image, stats }) => (
   <div className={styles.profile}>
