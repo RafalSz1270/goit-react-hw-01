@@ -1,8 +1,8 @@
 // src/App.jsx
 import React from 'react';
-import Profile from './components/Profile.jsx';
-import FriendList from './components/FriendList.jsx';
-import TransactionHistory from './components/TransactionHistory.jsx';
+import Profile from './Profile.jsx';
+import FriendList from './FriendList.jsx';
+import TransactionHistory from './TransactionHistory.jsx';
 import userData from './userData.json';
 import friends from './friends.json';
 import transactions from './transactions.json';
