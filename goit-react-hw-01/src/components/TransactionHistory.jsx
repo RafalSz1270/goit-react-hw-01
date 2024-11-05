@@ -1,6 +1,7 @@
 // src/components/TransactionHistory/index.jsx
 import React from 'react';
 import styles from './style.module.css';
+import TransactionHistory from '../transactions.json'
 
 const TransactionHistory = ({ items }) => (
   <table className={styles.transactionHistory}>
